@@ -1,0 +1,1740 @@
+
+Uncaught TypeError: Cannot set properties of null (setting 'textContent') (@thug-load/html/js/click-game.js:31)
+[qb] Loaded module core
+[ox] Loaded module context
+[ox] Loaded module target
+[ox] Loaded module radial
+[ox] Loaded module notify
+[all] Loaded module inventory
+[ox] Loaded module progressbar
+[ox] Loaded module textui
+^1SCRIPT ERROR: @npwd/dist/game/client/cl_controls.lua:6: attempt to call a nil value (global 'TriggerClientEvent')^7
+^3> fn^7 (^5@npwd/dist/game/client/cl_controls.lua^7:6)
+^3Warning: could not load 'locales/pt-br.json'^7
+^5[ND_Police] ^3[WARN] ND_GunAnims script not found, please install it or else the shield script won't work!^7
+^4RageUI - https://github.com/iTexZoz/RageUI - OpenSource Advanced UI Api^0
+THREE.WebGLRenderer 101dev (@screenshot-basic/dist/ui.html:15)
+f? (@screenshot-basic/dist/ui.html:15)
+^6Bridge^7: '^3ox_lib^7' ^2export found ^7
+^6Bridge^7: '^3qb-menu^7' ^2export found ^7
+^6Bridge^7: '^3ox_target^7' ^2export found ^7
+^6Bridge^7: '^3qb-target^7' ^2export found ^7
+^6Bridge^7: '^3qb-core^7' ^2export found ^7
+^6Bridge^7: '^3qbx_core^7' ^2export found ^7
+^6Bridge^7: '^3ox_inventory^7' ^2export found ^7
+^6Bridge^7: ^2Loading ^6545 ^3Items^2 from ^7ox_inventory
+^6Bridge^7: ^2Loading ^61350 ^3Vehicles^2 from ^7qb-core
+^6Bridge^7: ^2Loading ^61 ^3Jobs^2 from ^7qbx_core	^6Bridge^7: ^2Loading ^61 ^3Gangs^2 from ^7qbx_core
+^4RageUI - https://github.com/iTexZoz/RageUI - OpenSource Advanced UI Api^0
+Uncaught (in promise) SyntaxError: Unexpected end of JSON input (@rep-enginewire/web/build/index.html:1)
+Starting script initialization
+^5[qbx_vehicleshop] ^7[INFO] Lista de veículos carregada com sucesso! Total: 1363^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	rmodp1pgt^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	22m5sal^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	polkawasaki^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	rmodgt63police^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	ACTRPavant^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	RoyalCustom_RSQ8_EMS^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	amrvan^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	emsbmwm7^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	RoyalYamahaEMS_white^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	Killer350z^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	KillerAston^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	as350^7
+^5[qbx_core] ^3[WARN] Could not find gameName value in vehicles.meta for vehicle model %s	killerrx7^7
+^5[rhd_garage] ^3[WARN] Wait for the garage data to finish loading^7
+^5[rhd_garage] ^7[INFO] Use the /loaded and /reloadcache commands to load garage and player data^7
+Script initialization finished.
+^5Thanks for using my script! For support and questions join my Discord Server! 
+https://discord.gg/hpmN8D4JZt^0
+^5[rhd_garage] ^3[WARN] Wait for the garage data to finish loading^7
+^5[rhd_garage] ^7[INFO] Use the /loaded and /reloadcache commands to load garage and player data^7
+Slip Stream Enabled
+Loading speakers
+^5[rhd_garage] ^7[INFO] Garage data has been successfully loaded^7
+Try to load Speakers in nui
+Connecting to mumble, setting targets.
+Finished connection logic
+Speakers loaded in nui (@thug-box/web/build/assets/index.b924f965.js:85)
+Uncaught TypeError: Cannot set properties of null (setting 'onclick') (@thug-pc/nui/scripts/script.js:252)
+[object Object] (@npwd/dist/html/assets/index-ebf41f23.js:256)
+Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'map') (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'map') (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Uncaught SyntaxError: Cannot use import statement outside a module (@npwd_qbx_mail/web/dist/remoteEntry.js:1)
+Loaded external app npwd_qbx_mail (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Uncaught SyntaxError: Cannot use import statement outside a module (@npwd_qbx_mail/web/dist/remoteEntry.js:1)
+Loaded external app npwd_qbx_mail (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Successfully loaded external app "npwd_qbx_mail" (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Successfully loaded external app "npwd_qbx_mail" (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Failed to load external app "npwd_qbx_garages". Make sure it is started before NPWD. (@npwd/dist/html/assets/index-ebf41f23.js:342)
+[object Event] (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Failed to load external app "npwd_qbx_garages". Make sure it is started before NPWD. (@npwd/dist/html/assets/index-ebf41f23.js:342)
+[object Event] (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Failed to load external app "npwd_lavagem". Make sure it is started before NPWD. (@npwd/dist/html/assets/index-ebf41f23.js:342)
+[object Event] (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Failed to load external app "npwd_lavagem". Make sure it is started before NPWD. (@npwd/dist/html/assets/index-ebf41f23.js:342)
+[object Event] (@npwd/dist/html/assets/index-ebf41f23.js:342)
+{"coords":{"x":27.86373901367187,"w":189.9212646484375,"z":29.1787109375,"y":-1356.5274658203126},"label":"last_location"}
+Failed to load external app "pefcl". Make sure it is started before NPWD. (@npwd/dist/html/assets/index-ebf41f23.js:342)
+[object Event] (@npwd/dist/html/assets/index-ebf41f23.js:342)
+Failed to load external app "pefcl". Make sure it is started before NPWD. (@npwd/dist/html/assets/index-ebf41f23.js:342)
+[object Event] (@npwd/dist/html/assets/index-ebf41f23.js:342)
+-1 (@ps-realtor/html/index.js:4)
+vec4(-2081.383057, 2614.322266, 3.084000, 112.791000)	s_m_m_cntrybar_01	table: 00000160A1304F00
+vec4(-1492.363892, -939.257874, 10.214000, 144.030502)	s_m_m_cntrybar_01	table: 00000160A15A2840
+vec4(-1434.481812, -1512.274536, 2.148600, 25.866600)	s_m_m_dockwork_01	table: 00000160B2B6AF40
+-1 (@ps-realtor/html/index.js:4)
+[tokyo_Qstashes] - Loaded database.
+Fetching skills for player
+Skills:	{
+    "mining": 0,
+    "searching": 0,
+    "busdriver": 0,
+    "crafting": 0,
+    "trucker": 0,
+    "hunting": 0,
+    "cargo": 0,
+    "areaexample": 0,
+    "cooking": 0,
+    "taxi": 0,
+    "lockpicking": 0,
+    "fishing": 0,
+    "hotwiring": 0,
+    "cityworker": 0,
+    "garbage": 0
+}
+^3Warning: Texture script_rt_tvscreen (in txd mtelite_netopalco_texture.ytd) was set to a compressed texture format, but 'script_rt' textures should always be uncompressed.
+This file was likely processed by a bad tool. To improve load performance and reduce the risk of it crashing, fix or update the tool used.^7
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+^1SCRIPT ERROR: @thug-lavagem2/client/main.lua:65: attempt to index a nil value (local 'location')^7
+^3> callback^7 (^5@ox_target/client/main.lua^7:444)
+> ensure thug-lavagem2
+
+Failed to create society account
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+Location ID:	nil
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+> vec3
+
+> ensure thug-lavagem2
+
+Failed to create society account
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+Exibindo mensagem:  Sejam Bem Vindos a Tokyo Edge Roleplay, Acesse nosso Discord e fique por dentro das novidades!!!
+> refresh
+
+> ensure thug-lavagem2
+
+Uncaught (in promise) TypeError: Failed to fetch (@thug-box/web/build/assets/index.b924f965.js:32)
+Failed to create society account
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+Exibindo mensagem:  Sejam Bem Vindos a Tokyo Edge Roleplay, Acesse nosso Discord e fique por dentro das novidades!!!
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+Error loading audio: panicbutton.ogg (@interact-sound/client/html/index.html:33)
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+> refresh
+
+> ensure thug-lavagem2
+
+Error parsing script @thug-lavagem2/client/main.lua in resource thug-lavagem2: @thug-lavagem2/client/main.lua:77: ')' expected (to close '(' at line 59) near 'local'
+Failed to create society account
+> refresh
+
+> ensure thug-lavagem2
+
+Error parsing script @thug-lavagem2/client/main.lua in resource thug-lavagem2: @thug-lavagem2/client/main.lua:58: unexpected symbol near ')'
+Failed to create society account
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+> refresh
+
+> ensure thug-lavagem2
+
+Error parsing script @thug-lavagem2/client/main.lua in resource thug-lavagem2: @thug-lavagem2/client/main.lua:77: ')' expected (to close '(' at line 59) near 'local'
+Failed to create society account
+> refresh
+
+> ensure thug-lavagem2
+
+Error parsing script @thug-lavagem2/client/main.lua in resource thug-lavagem2: @thug-lavagem2/client/main.lua:78: ')' expected (to close '(' at line 60) near 'local'
+Failed to create society account
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+> refresh
+
+> ensure thug-lavagem2
+
+Failed to create society account
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Error loading audio: panicbutton.ogg (@interact-sound/client/html/index.html:33)
+> refresh
+
+> ensure thug
+
+Failed to create society account
+^1SCRIPT ERROR: @thug/client/main.lua:72: No such export addCircleZone in resource ox_lib^7
+> stop thug-lavagem2
+
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+> refresh
+
+> ensure thug
+
+Failed to create society account
+^1SCRIPT ERROR: @thug/client/main.lua:72: No such export addBoxZone in resource ox_lib^7
+> tp 112.5, -1000.3, 28.3
+
+> tpwy
+
+> tpway
+
+> vec
+
+> vec3
+
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+> refresh
+
+> ensure thug
+
+Failed to create society account
+> ensure thug
+
+Failed to create society account
+> tp 200.2, -1800.4, 28.8
+
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+> refresh
+
+> ensure thug
+
+Failed to create society account
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+> tpway
+
+^1SCRIPT ERROR: @qbx_core/modules/lib.lua:393: statebag timed out while awaiting entity creation! (entity:18) (waited 10001.0ms)^7
+^3> waitFor^7 (^5@ox_lib/imports/waitFor/client.lua^7:25)
+^3> getEntityAndNetIdFromBagName^7 (^5@qbx_core/modules/lib.lua^7:393)
+^3> ref^7 (^5@qbx_core/modules/lib.lua^7:414)
+> vec3
+
+> ensure thug
+
+Failed to create society account
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+> tx
+
+> god
+
+> car ttsto
+
+> tuning
+
+> t
+
+> u
+
+> n
+
+> tuning
+
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+ "bl:radial" is "'ox'"
+ default: "" - flags( Modified Replicated )
+ type: string
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+> e yes
+
+> setjob 1 prf1 3
+
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+^3Warning: Texture script_rt_tvscreen (in txd mtelite_netopalco_texture.ytd) was set to a compressed texture format, but 'script_rt' textures should always be uncompressed.
+This file was likely processed by a bad tool. To improve load performance and reduce the risk of it crashing, fix or update the tool used.^7
+-1 (@ps-realtor/html/index.js:4)
+> dv
+
+^3Warning: NETWORK_GET_NETWORK_ID_FROM_ENTITY: no such entity (script ID 2270466)^7
+^3Warning: [entity] GetNetworkObject: no object by ID 0^7
+{"vehName":"Lamborghini TTSTO [ 68IEZ001 ]","vehicle_name":"Lamborghini TTSTO","deformation":[{"offset":{"x":-1.11000001430511,"y":2.35999989509582,"z":0.0},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":2.35999989509582,"z":0.62000000476837},"damage":0.0},{"offset":{"x":0.0,"y":2.35999989509582,"z":0.0},"damage":0.0},{"offset":{"x":0.0,"y":2.35999989509582,"z":0.62000000476837},"damage":0.0},{"offset":{"x":1.11000001430511,"y":2.35999989509582,"z":0.0},"damage":0.0},{"offset":{"x":1.11000001430511,"y":2.35999989509582,"z":0.62000000476837},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":1.17999994754791,"z":0.0},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":1.17999994754791,"z":0.62000000476837},"damage":0.0},{"offset":{"x":0.0,"y":1.17999994754791,"z":0.0},"damage":0.0},{"offset":{"x":0.0,"y":1.17999994754791,"z":0.62000000476837},"damage":0.0},{"offset":{"x":1.11000001430511,"y":1.17999994754791,"z":0.0},"damage":0.0},{"offset":{"x":1.11000001430511,"y":1.17999994754791,"z":0.62000000476837},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":0.0,"z":0.0},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":0.0,"z":0.62000000476837},"damage":0.0},{"offset":{"x":0.0,"y":0.0,"z":0.0},"damage":0.0},{"offset":{"x":0.0,"y":0.0,"z":0.62000000476837},"damage":0.0},{"offset":{"x":1.11000001430511,"y":0.0,"z":0.0},"damage":0.0},{"offset":{"x":1.11000001430511,"y":0.0,"z":0.62000000476837},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":-1.17999994754791,"z":0.0},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":-1.17999994754791,"z":0.62000000476837},"damage":0.0},{"offset":{"x":0.0,"y":-1.17999994754791,"z":0.0},"damage":0.0},{"offset":{"x":0.0,"y":-1.17999994754791,"z":0.62000000476837},"damage":0.0},{"offset":{"x":1.11000001430511,"y":-1.17999994754791,"z":0.0},"damage":0.0},{"offset":{"x":1.11000001430511,"y":-1.17999994754791,"z":0.62000000476837},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":-2.35999989509582,"z":0.0},"damage":0.0},{"offset":{"x":-1.11000001430511,"y":-2.35999989509582,"z":0.62000000476837},"damage":0.0},{"offset":{"x":0.0,"y":-2.35999989509582,"z":0.0},"damage":0.0},{"offset":{"x":0.0,"y":-2.35999989509582,"z":0.62000000476837},"damage":0.0},{"offset":{"x":1.11000001430511,"y":-2.35999989509582,"z":0.0},"damage":0.0},{"offset":{"x":1.11000001430511,"y":-2.35999989509582,"z":0.62000000476837},"damage":0.0}],"prop":{"oilLevel":5,"modXenon":true,"bulletProofTyres":true,"paintType2":7,"engineHealth":1000,"modCustomTiresR":false,"modLivery":-1,"windowTint":1,"modEngine":3,"modArmor":-1,"modHydrolic":-1,"modNitrous":-1,"windows":[7],"modSubwoofer":-1,"fuelLevel":25,"modLightbar":-1,"plate":"68IEZ001","paintType1":7,"modTrunk":-1,"modSeats":-1,"modTrimB":-1,"modHood":-1,"wheels":7,"color2":89,"modSpeakers":-1,"modTrimA":-1,"wheelWidth":1.0,"wheelSize":1.0,"modRoofLivery":-1,"modSpoilers":-1,"pearlescentColor":240,"modTurbo":false,"modSmokeEnabled":true,"modAerials":-1,"modBrakes":2,"tyreSmokeColor":[153,10,153],"neonEnabled":[false,true,true,true],"modDial":-1,"modWindows":-1,"modFrontWheels":-1,"modGrille":-1,"modSteeringWheel":-1,"modBackWheels":-1,"modPlateHolder":-1,"model":1180382913,"plateIndex":0,"doors":[],"modSideSkirt":-1,"dirtLevel":4,"modShifterLeavers":-1,"color1":240,"driftTyres":false,"modFrontBumper":-1,"modDoorSpeaker":-1,"modFrame":-1,"modSuspension":3,"modRightFender":-1,"modCustomTiresF":false,"modTank":-1,"tyres":[],"modExhaust":-1,"modStruts":-1,"tankHealth":1000,"neonColor":[15,3,255],"dashboardColor":89,"modVanityPlate":-1,"wheelColor":145,"extras":[1,0,1,1],"modAirFilter":-1,"modArchCover":-1,"modDoorR":-1,"modRoof":-1,"xenonColor":12,"modHorns":-1,"modAPlate":-1,"modEngineBlock":-1,"modDashboard":-1,"bodyHealth":986,"livery":2,"modTransmission":2,"modFender":-1,"modRearBumper":-1,"modHydraulics":false,"interiorColor":89,"modOrnaments":-1},"body":986,"icon":"car","shared":false,"depotprice":15000,"fuel":25,"impound":false,"plate":"68IEZ001","coords":{"x":150.89305114746095,"y":-1312.0625,"z":28.92393493652343,"w":57.5},"garage":"Vanilla Pública","model":"TTSTO","engine":1000}
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+> vec3
+
+> refresh
+
+> ensure thug
+
+Failed to create society account
+> refresh
+
+> ensure thug
+
+Failed to create society account
+> setgang 3 vanilla 6
+
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+> tp vec3(3822.43, 4443.09, 2.81)
+
+> tp 3822.43, 4443.09, 2.81
+
+> vec3
+
+> refresh
+
+> ensure thug
+
+Failed to create society account
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+> vec3
+
+> tp 96.22, -1293.1, 29.26
+
+> refresh
+
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+> ensure thug
+
+Failed to create society account
+> tp 3822.74, 4441.92, 2.81
+
+> ensure thug
+
+Failed to create society account
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 96.220001220703, -1293.0999755859, 29.260000228882
+[DEBUG] Máquina criada com sucesso: -464691988
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+> tp 200.2, -1800.4, 28.8
+
+[DEBUG] Abrindo menu para localização: Depósito Abandonado
+[DEBUG] Iniciando lavagem de R$ 1000 na localização: Depósito Abandonado
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@heists@ornate_bank@grab_cash_heels
+[DEBUG] Criando prop: prop_money_bag_01
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem bem-sucedida: Lavagem concluída: R$980 limpos (taxa 2%)
+[DEBUG] Tocando som: ROBBERY_MONEY_TOTAL do dicionário: HUD_FRONTEND_CUSTOM_SOUNDSET
+[DEBUG] Abrindo menu para localização: Depósito Abandonado
+> tp 96.22, -1293.1, 29.26
+
+> vec3
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 97.440002441406, -1292.7299804688, 29.260000228882
+[DEBUG] Máquina criada com sucesso: -464691988
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 97.440002441406, -1292.7299804688, 29.260000228882
+[DEBUG] Máquina criada com sucesso: -464691988
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+> vec3
+
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 97.76000213623, -1293.3000488281, 29.260000228882
+[DEBUG] Máquina criada com sucesso: -464691988
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Abrindo menu para localização: Boate Vanilla
+[DEBUG] Iniciando lavagem de R$ 1000 na localização: Boate Vanilla
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@mp_player_intupperraining_cash
+[DEBUG] Criando prop: prop_cash_pile_02
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+Connecting to mumble, setting targets.
+^3Warning: [mumble] MUMBLE_ADD_VOICE_CHANNEL_LISTEN: Tried to call native on a channel that didn't exist^7
+^3Warning: [mumble] MUMBLE_ADD_VOICE_CHANNEL_LISTEN: Tried to call native on a channel that didn't exist^7
+^3Warning: [mumble] MUMBLE_ADD_VOICE_CHANNEL_LISTEN: Tried to call native on a channel that didn't exist^7
+Finished connection logic
+Connecting to mumble, setting targets.
+^3Warning: [mumble] MUMBLE_ADD_VOICE_CHANNEL_LISTEN: Tried to call native on a channel that didn't exist^7
+^3Warning: [mumble] MUMBLE_ADD_VOICE_CHANNEL_LISTEN: Tried to call native on a channel that didn't exist^7
+Finished connection logic
+[DEBUG] Lavagem bem-sucedida: Lavagem concluída: R$980 limpos (taxa 2%)
+[DEBUG] Tocando som: ROBBERY_MONEY_TOTAL do dicionário: HUD_FRONTEND_CUSTOM_SOUNDSET
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 97.76000213623, -1293.3000488281, 29.260000228882
+[DEBUG] Máquina criada com sucesso: -464691988
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Abrindo menu para localização: Boate Vanilla
+[DEBUG] Iniciando lavagem de R$ 50000 na localização: Boate Vanilla
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@mp_player_intupperraining_cash
+[DEBUG] Criando prop: prop_cash_pile_02
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem bem-sucedida: Lavagem concluída: R$49.000 limpos (taxa 2%)
+[DEBUG] Tocando som: ROBBERY_MONEY_TOTAL do dicionário: HUD_FRONTEND_CUSTOM_SOUNDSET
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 97.76000213623, -1293.3000488281, 29.260000228882
+[DEBUG] Máquina criada com sucesso: -464691988
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+[DEBUG] Abrindo menu para localização: Boate Vanilla
+[DEBUG] Iniciando lavagem de R$ 50000 na localização: Boate Vanilla
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@mp_player_intupperraining_cash
+[DEBUG] Criando prop: prop_cash_pile_02
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem bem-sucedida: Lavagem concluída: R$49.000 limpos (taxa 2%)
+[DEBUG] Tocando som: ROBBERY_MONEY_TOTAL do dicionário: HUD_FRONTEND_CUSTOM_SOUNDSET
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+Uncaught (in promise) SyntaxError: Unexpected end of JSON input (@ps-adminmenu/html/index.html:1)
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 98.349998474121, -1293.5699462891, 29.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> vec3
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 98.050003051758, -1293.0999755859, 29.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> vec3
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 98.150001525879, -1293.6899414062, 29.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 98.150001525879, -1293.6899414062, 30.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 88.150001525879, -1293.6899414062, 30.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 98.150001525879, -1093.6899414062, 30.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 98.150001525879, -1293.6899414062, 30.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 98.150001525879, -1293.6899414062, 29.5
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> vec4
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 97.639999389648, -1293.1199951172, 29.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+^1SCRIPT ERROR: @thug/client/main.lua:156: attempt to perform unsupported operation on a vector value (local 'playerCoords')^7
+^3> fn^7 (^5@thug/client/main.lua^7:156)
+> vec3
+
+> vec3
+
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 94.01000213623, -1293.4100341797, 29.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> vec3
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 93.319999694824, -1292.2600097656, 29.260000228882
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+^3Warning: Texture script_rt_tvscreen (in txd mtelite_netopalco_texture.ytd) was set to a compressed texture format, but 'script_rt' textures should always be uncompressed.
+This file was likely processed by a bad tool. To improve load performance and reduce the risk of it crashing, fix or update the tool used.^7
+> vec3
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.1300048828, 28.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> nc
+
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.1300048828, 28.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.1300048828, 30.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.1300048828, 28.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.1300048828, 29.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1280.1300048828, 29.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0999755859, 29.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0899658203, 29.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Error loading audio: panicbutton.ogg (@interact-sound/client/html/index.html:33)
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.319999694824
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.329999923706
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.340000152588
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.340000152588
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.340000152588
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 200.19999694824, -1800.4000244141, 28.799999237061
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Abrindo menu para localização: Boate Vanilla
+[DEBUG] Iniciando lavagem de R$ 50000 na localização: Boate Vanilla
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@mp_player_intupperraining_cash
+[DEBUG] Criando prop: prop_cash_pile_02
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem bem-sucedida: Lavagem concluída: R$49.000 limpos (taxa 2%)
+[DEBUG] Tocando som: ROBBERY_MONEY_TOTAL do dicionário: HUD_FRONTEND_CUSTOM_SOUNDSET
+[DEBUG] Abrindo menu para localização: Boate Vanilla
+[DEBUG] Iniciando lavagem de R$ 5000 na localização: Boate Vanilla
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@mp_player_intupperraining_cash
+[DEBUG] Criando prop: prop_cash_pile_02
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem falhou: Aguarde 282 segundos antes de lavar novamente.
+[DEBUG] Tocando som: ERROR do dicionário: HUD_FRONTEND_DEFAULT_SOUNDSET
+^3Warning: Texture script_rt_tvscreen (in txd mtelite_netopalco_texture.ytd) was set to a compressed texture format, but 'script_rt' textures should always be uncompressed.
+This file was likely processed by a bad tool. To improve load performance and reduce the risk of it crashing, fix or update the tool used.^7
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+^3Warning: Texture script_rt_tvscreen (in txd mtelite_netopalco_texture.ytd) was set to a compressed texture format, but 'script_rt' textures should always be uncompressed.
+This file was likely processed by a bad tool. To improve load performance and reduce the risk of it crashing, fix or update the tool used.^7
+Error loading audio: pager.ogg (@interact-sound/client/html/index.html:33)
+> fix
+
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+> tpway
+
+> vec3
+
+> refresh
+
+> ensure htug
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.340000152588
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 3822.4399414062, 4442.5297851562, 2.8099999427795
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Uncaught (in promise) TypeError: Failed to fetch (@ps-adminmenu/html/index.js:4)
+[DEBUG] Abrindo menu para localização: Depósito Abandonado
+[DEBUG] Iniciando lavagem de R$ 50000 na localização: Depósito Abandonado
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@heists@ornate_bank@grab_cash_heels
+[DEBUG] Criando prop: prop_money_bag_01
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem falhou: Você não tem dinheiro sujo suficiente.
+[DEBUG] Tocando som: ERROR do dicionário: HUD_FRONTEND_DEFAULT_SOUNDSET
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+[DEBUG] Job atualizado para: bope
+-1 (@ps-realtor/html/index.js:4)
+^3Warning: attempted to remove a zone that does not exist (id: 147)^7
+^3Warning: attempted to remove a zone that does not exist (id: 148)^7
+^3Warning: attempted to remove a zone that does not exist (id: 149)^7
+^3Warning: attempted to remove a zone that does not exist (id: 150)^7
+^3Warning: attempted to remove a zone that does not exist (id: 151)^7
+^3Warning: attempted to remove a zone that does not exist (id: 152)^7
+^3Warning: attempted to remove a zone that does not exist (id: 153)^7
+^3Warning: attempted to remove a zone that does not exist (id: 154)^7
+^3Warning: attempted to remove a zone that does not exist (id: 155)^7
+^3Warning: attempted to remove a zone that does not exist (id: 156)^7
+^3Warning: attempted to remove a zone that does not exist (id: 157)^7
+^3Warning: attempted to remove a zone that does not exist (id: 158)^7
+^3Warning: attempted to remove a zone that does not exist (id: 159)^7
+^3Warning: attempted to remove a zone that does not exist (id: 160)^7
+^3Warning: attempted to remove a zone that does not exist (id: 161)^7
+^3Warning: attempted to remove a zone that does not exist (id: 162)^7
+^3Warning: attempted to remove a zone that does not exist (id: 163)^7
+^3Warning: attempted to remove a zone that does not exist (id: 164)^7
+^3Warning: attempted to remove a zone that does not exist (id: 165)^7
+^3Warning: attempted to remove a zone that does not exist (id: 166)^7
+^3Warning: attempted to remove a zone that does not exist (id: 167)^7
+^3Warning: attempted to remove a zone that does not exist (id: 168)^7
+^3Warning: attempted to remove a zone that does not exist (id: 169)^7
+^3Warning: attempted to remove a zone that does not exist (id: 170)^7
+^3Warning: attempted to remove a zone that does not exist (id: 171)^7
+^3Warning: attempted to remove a zone that does not exist (id: 172)^7
+^3Warning: attempted to remove a zone that does not exist (id: 173)^7
+^3Warning: attempted to remove a zone that does not exist (id: 174)^7
+^3Warning: attempted to remove a zone that does not exist (id: 175)^7
+^3Warning: attempted to remove a zone that does not exist (id: 176)^7
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.340000152588
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 3822.4399414062, 4442.5297851562, 2.8800001144409
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.340000152588
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 3822.4399414062, 4442.5297851562, 2.9500000476837
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Job atualizado para: bope
+-1 (@ps-realtor/html/index.js:4)
+> refresh
+
+^3Warning: attempted to remove a zone that does not exist (id: 147)^7
+^3Warning: attempted to remove a zone that does not exist (id: 148)^7
+^3Warning: attempted to remove a zone that does not exist (id: 149)^7
+^3Warning: attempted to remove a zone that does not exist (id: 150)^7
+^3Warning: attempted to remove a zone that does not exist (id: 151)^7
+^3Warning: attempted to remove a zone that does not exist (id: 152)^7
+^3Warning: attempted to remove a zone that does not exist (id: 153)^7
+^3Warning: attempted to remove a zone that does not exist (id: 154)^7
+^3Warning: attempted to remove a zone that does not exist (id: 155)^7
+^3Warning: attempted to remove a zone that does not exist (id: 156)^7
+^3Warning: attempted to remove a zone that does not exist (id: 157)^7
+^3Warning: attempted to remove a zone that does not exist (id: 158)^7
+^3Warning: attempted to remove a zone that does not exist (id: 159)^7
+^3Warning: attempted to remove a zone that does not exist (id: 160)^7
+^3Warning: attempted to remove a zone that does not exist (id: 161)^7
+^3Warning: attempted to remove a zone that does not exist (id: 162)^7
+^3Warning: attempted to remove a zone that does not exist (id: 163)^7
+^3Warning: attempted to remove a zone that does not exist (id: 164)^7
+^3Warning: attempted to remove a zone that does not exist (id: 165)^7
+^3Warning: attempted to remove a zone that does not exist (id: 166)^7
+^3Warning: attempted to remove a zone that does not exist (id: 167)^7
+^3Warning: attempted to remove a zone that does not exist (id: 168)^7
+^3Warning: attempted to remove a zone that does not exist (id: 169)^7
+^3Warning: attempted to remove a zone that does not exist (id: 170)^7
+^3Warning: attempted to remove a zone that does not exist (id: 171)^7
+^3Warning: attempted to remove a zone that does not exist (id: 172)^7
+^3Warning: attempted to remove a zone that does not exist (id: 173)^7
+^3Warning: attempted to remove a zone that does not exist (id: 174)^7
+^3Warning: attempted to remove a zone that does not exist (id: 175)^7
+^3Warning: attempted to remove a zone that does not exist (id: 176)^7
+^3Warning: attempted to remove a zone that does not exist (id: 379)^7
+^3Warning: attempted to remove a zone that does not exist (id: 380)^7
+^3Warning: attempted to remove a zone that does not exist (id: 381)^7
+^3Warning: attempted to remove a zone that does not exist (id: 382)^7
+^3Warning: attempted to remove a zone that does not exist (id: 383)^7
+^3Warning: attempted to remove a zone that does not exist (id: 384)^7
+^3Warning: attempted to remove a zone that does not exist (id: 385)^7
+^3Warning: attempted to remove a zone that does not exist (id: 386)^7
+^3Warning: attempted to remove a zone that does not exist (id: 387)^7
+^3Warning: attempted to remove a zone that does not exist (id: 388)^7
+^3Warning: attempted to remove a zone that does not exist (id: 389)^7
+^3Warning: attempted to remove a zone that does not exist (id: 390)^7
+^3Warning: attempted to remove a zone that does not exist (id: 391)^7
+^3Warning: attempted to remove a zone that does not exist (id: 392)^7
+^3Warning: attempted to remove a zone that does not exist (id: 393)^7
+^3Warning: attempted to remove a zone that does not exist (id: 394)^7
+^3Warning: attempted to remove a zone that does not exist (id: 395)^7
+^3Warning: attempted to remove a zone that does not exist (id: 396)^7
+^3Warning: attempted to remove a zone that does not exist (id: 397)^7
+^3Warning: attempted to remove a zone that does not exist (id: 398)^7
+^3Warning: attempted to remove a zone that does not exist (id: 399)^7
+^3Warning: attempted to remove a zone that does not exist (id: 400)^7
+^3Warning: attempted to remove a zone that does not exist (id: 401)^7
+^3Warning: attempted to remove a zone that does not exist (id: 402)^7
+^3Warning: attempted to remove a zone that does not exist (id: 403)^7
+^3Warning: attempted to remove a zone that does not exist (id: 404)^7
+^3Warning: attempted to remove a zone that does not exist (id: 405)^7
+^3Warning: attempted to remove a zone that does not exist (id: 406)^7
+^3Warning: attempted to remove a zone that does not exist (id: 407)^7
+^3Warning: attempted to remove a zone that does not exist (id: 408)^7
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Criando máquina em: 95.089996337891, -1290.0500488281, 29.340000152588
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Criando máquina em: 3822.4399414062, 4442.5297851562, 3.0
+[DEBUG] Máquina criada com sucesso: 1784997875
+[DEBUG] Total de máquinas criadas: 2
+> vec3
+
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: prop_table_03
+[DEBUG] Objeto criado com sucesso: prop_cash_crate_01
+[DEBUG] Objeto criado com sucesso: prop_tool_bench02
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Total de suportes criados: 2
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+> tp
+
+> tp 96.22, -1293.1, 29.26
+
+> vec3
+
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: prop_table_03
+[DEBUG] Objeto criado com sucesso: prop_cash_crate_01
+[DEBUG] Objeto criado com sucesso: prop_tool_bench02
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Total de suportes criados: 2
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: prop_table_03
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: prop_tool_bench02
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Total de suportes criados: 2
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: prop_tablesmall_01
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: prop_wooden_barrel
+[DEBUG] Objeto criado com sucesso: bkr_prop_coke_scale_01
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Total de suportes criados: 2
+> vec3
+
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: prop_tablesmall_01
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: prop_wooden_barrel
+[DEBUG] Objeto criado com sucesso: bkr_prop_coke_scale_01
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Total de suportes criados: 2
+> tp 3825.21, 4441.37, 2.8
+
+[DEBUG] Abrindo menu para localização: Galpão Abandonado
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+> refresh
+
+> ensure thug
+
+Error parsing script @thug/client/main.lua in resource thug: @thug/client/main.lua:428: unexpected symbol near '{'
+Failed to create society account
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Abrindo menu para localização: Galpão Abandonado
+[DEBUG] Iniciando lavagem de R$ 1000 na localização: Galpão Abandonado
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@heists@ornate_bank@grab_cash_heels
+[DEBUG] Criando prop: prop_money_bag_01
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem bem-sucedida: Lavagem concluída: R$980 limpos (taxa 2%)
+[DEBUG] Tocando som: ROBBERY_MONEY_TOTAL do dicionário: HUD_FRONTEND_CUSTOM_SOUNDSET
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Uncaught (in promise) TypeError: Failed to fetch (@thug/html/script.js:26)
+Uncaught (in promise) TypeError: Failed to fetch (@thug/html/script.js:26)
+Uncaught (in promise) TypeError: Failed to fetch (@thug/html/script.js:26)
+Exibindo mensagem:  Sejam Bem Vindos a Tokyo Edge Roleplay, Acesse nosso Discord e fique por dentro das novidades!!!
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+Exibindo mensagem:  Sejam Bem Vindos a Tokyo Edge Roleplay, Acesse nosso Discord e fique por dentro das novidades!!!
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+Uncaught SyntaxError: Unexpected token 'export' (@thug/html/script.js:241)
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Uncaught SyntaxError: Unexpected token 'export' (@thug/html/script.js:241)
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypane
+
+> laundrypanel
+
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+[DEBUG] Abrindo menu para localização: Galpão Abandonado
+[DEBUG] Iniciando lavagem de R$ 50000 na localização: Galpão Abandonado
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@heists@ornate_bank@grab_cash_heels
+[DEBUG] Criando prop: prop_money_bag_01
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem falhou: Você não tem dinheiro sujo suficiente.
+[DEBUG] Tocando som: ERROR do dicionário: HUD_FRONTEND_DEFAULT_SOUNDSET
+> additem 3 black_money 30000000
+
+[DEBUG] Abrindo menu para localização: Galpão Abandonado
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+[DEBUG] Iniciando lavagem de R$ 50000 na localização: Galpão Abandonado
+[DEBUG] Tocando som: Counting do dicionário: GTAO_Money_Laundering_Counting_Sounds
+[DEBUG] Carregando dicionário de animação: anim@heists@ornate_bank@grab_cash_heels
+[DEBUG] Criando prop: prop_money_bag_01
+[DEBUG] Limpando animação
+[DEBUG] Removendo prop
+[DEBUG] Progress bar concluído, chamando servidor
+[DEBUG] Lavagem bem-sucedida: Lavagem concluída: R$49.000 limpos (taxa 2%)
+[DEBUG] Tocando som: ROBBERY_MONEY_TOTAL do dicionário: HUD_FRONTEND_CUSTOM_SOUNDSET
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:85)
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+Erro ao buscar dados: [object DOMException] (@thug/html/script.js:86)
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Uncaught SyntaxError: Unexpected end of input (@thug/html/script.js:253)
+Failed to create society account
+> laundrypanel
+
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Uncaught SyntaxError: Unexpected end of input (@thug/html/script.js:253)
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Uncaught ReferenceError: filterData is not defined (@thug/html/script.js:37)
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+> laundrypanel
+
+Uncaught ReferenceError: formatJobName is not defined (@thug/html/script.js:10)
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:70)
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+[DEBUG] Job atualizado para: bope
+-1 (@ps-realtor/html/index.js:4)
+^3Warning: attempted to remove a zone that does not exist (id: 147)^7
+^3Warning: attempted to remove a zone that does not exist (id: 148)^7
+^3Warning: attempted to remove a zone that does not exist (id: 149)^7
+^3Warning: attempted to remove a zone that does not exist (id: 150)^7
+^3Warning: attempted to remove a zone that does not exist (id: 151)^7
+^3Warning: attempted to remove a zone that does not exist (id: 152)^7
+^3Warning: attempted to remove a zone that does not exist (id: 153)^7
+^3Warning: attempted to remove a zone that does not exist (id: 154)^7
+^3Warning: attempted to remove a zone that does not exist (id: 155)^7
+^3Warning: attempted to remove a zone that does not exist (id: 156)^7
+^3Warning: attempted to remove a zone that does not exist (id: 157)^7
+^3Warning: attempted to remove a zone that does not exist (id: 158)^7
+^3Warning: attempted to remove a zone that does not exist (id: 159)^7
+^3Warning: attempted to remove a zone that does not exist (id: 160)^7
+^3Warning: attempted to remove a zone that does not exist (id: 161)^7
+^3Warning: attempted to remove a zone that does not exist (id: 162)^7
+^3Warning: attempted to remove a zone that does not exist (id: 163)^7
+^3Warning: attempted to remove a zone that does not exist (id: 164)^7
+^3Warning: attempted to remove a zone that does not exist (id: 165)^7
+^3Warning: attempted to remove a zone that does not exist (id: 166)^7
+^3Warning: attempted to remove a zone that does not exist (id: 167)^7
+^3Warning: attempted to remove a zone that does not exist (id: 168)^7
+^3Warning: attempted to remove a zone that does not exist (id: 169)^7
+^3Warning: attempted to remove a zone that does not exist (id: 170)^7
+^3Warning: attempted to remove a zone that does not exist (id: 171)^7
+^3Warning: attempted to remove a zone that does not exist (id: 172)^7
+^3Warning: attempted to remove a zone that does not exist (id: 173)^7
+^3Warning: attempted to remove a zone that does not exist (id: 174)^7
+^3Warning: attempted to remove a zone that does not exist (id: 175)^7
+^3Warning: attempted to remove a zone that does not exist (id: 176)^7
+^3Warning: attempted to remove a zone that does not exist (id: 379)^7
+^3Warning: attempted to remove a zone that does not exist (id: 380)^7
+^3Warning: attempted to remove a zone that does not exist (id: 381)^7
+^3Warning: attempted to remove a zone that does not exist (id: 382)^7
+^3Warning: attempted to remove a zone that does not exist (id: 383)^7
+^3Warning: attempted to remove a zone that does not exist (id: 384)^7
+^3Warning: attempted to remove a zone that does not exist (id: 385)^7
+^3Warning: attempted to remove a zone that does not exist (id: 386)^7
+^3Warning: attempted to remove a zone that does not exist (id: 387)^7
+^3Warning: attempted to remove a zone that does not exist (id: 388)^7
+^3Warning: attempted to remove a zone that does not exist (id: 389)^7
+^3Warning: attempted to remove a zone that does not exist (id: 390)^7
+^3Warning: attempted to remove a zone that does not exist (id: 391)^7
+^3Warning: attempted to remove a zone that does not exist (id: 392)^7
+^3Warning: attempted to remove a zone that does not exist (id: 393)^7
+^3Warning: attempted to remove a zone that does not exist (id: 394)^7
+^3Warning: attempted to remove a zone that does not exist (id: 395)^7
+^3Warning: attempted to remove a zone that does not exist (id: 396)^7
+^3Warning: attempted to remove a zone that does not exist (id: 397)^7
+^3Warning: attempted to remove a zone that does not exist (id: 398)^7
+^3Warning: attempted to remove a zone that does not exist (id: 399)^7
+^3Warning: attempted to remove a zone that does not exist (id: 400)^7
+^3Warning: attempted to remove a zone that does not exist (id: 401)^7
+^3Warning: attempted to remove a zone that does not exist (id: 402)^7
+^3Warning: attempted to remove a zone that does not exist (id: 403)^7
+^3Warning: attempted to remove a zone that does not exist (id: 404)^7
+^3Warning: attempted to remove a zone that does not exist (id: 405)^7
+^3Warning: attempted to remove a zone that does not exist (id: 406)^7
+^3Warning: attempted to remove a zone that does not exist (id: 407)^7
+^3Warning: attempted to remove a zone that does not exist (id: 408)^7
+Exibindo mensagem:  Sejam Bem Vindos a Tokyo Edge Roleplay, Acesse nosso Discord e fique por dentro das novidades!!!
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> refresh
+
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+> ensure thug2
+
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+> refresh
+
+> ensure thug2
+
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Uncaught (in promise) TypeError: Failed to fetch (@thug/html/script.js:11)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Uncaught (in promise) TypeError: Failed to fetch (@thug/html/script.js:11)
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+> refresh
+
+> ensure thug
+
+[QB-Laundry] [DEBUG] [Client]: Recurso iniciado: thug
+^1SCRIPT ERROR: @thug/client.lua:309: attempt to index a nil value (global 'os')^7
+^3> handler^7 (^5@thug/client.lua^7:309)
+Documento carregado. Preparando painel... (@thug/html/script.js:396)
+Failed to create society account
+Inicializando painel de lavagem de dinheiro (@thug/html/script.js:370)
+Verificando conexão com o servidor FiveM... (@thug/html/script.js:289)
+Chamando API: ping com dados: [object Object] (@thug/html/script.js:10)
+[QB-Laundry] [DEBUG] [Client]: Ping recebido da NUI: {"timestamp":1745044454383}
+error during NUI callback ping: @thug/client.lua:212: attempt to index a nil value (global 'os')
+Erro chamando ping: TypeError: Failed to fetch (@thug/html/script.js:27)
+Erro ao verificar conexão: TypeError: Failed to fetch (@thug/html/script.js:294)
+Não foi possível estabelecer conexão com o servidor (@thug/html/script.js:384)
+Painel inicializado e pronto para receber dados (@thug/html/script.js:391)
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> laundrypanel
+
+[QB-Laundry] [DEBUG] [Client]: Abrindo painel administrativo para jogador com job: bope
+^1SCRIPT ERROR: @thug/client.lua:178: attempt to index a nil value (global 'os')^7
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+> refresh
+
+[QB-Laundry] [DEBUG] [Client]: Recurso parado: thug
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+Uncaught TypeError: Cannot read properties of null (reading 'addEventListener') (@thug/html/script.js:166)
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> laundrypanel
+
+Uncaught TypeError: Cannot read properties of null (reading 'style') (@thug/html/script.js:10)
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+Exibindo mensagem: 🎮 *Desafios Urbanos!* Os desafios diários estão disponíveis. Conquiste a cidade e prove sua habilidade! 🏙️
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Exibindo mensagem: 🚨 *PRF A Postos!* A PRF está em alerta no aeroporto e na zona norte da cidade. Não deixe que a fiscalização pegue você. 🛑
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem: 🌟 *Atualização Da Cidade!* Novo conteúdo foi adicionado ao servidor. Explore as ruas de Tokyo Edge como nunca antes! 🌆
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem:  Sejam Bem Vindos a Tokyo Edge Roleplay, Acesse nosso Discord e fique por dentro das novidades!!!
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+Exibindo mensagem: 🚨 *Alerta Cyber!* Um novo evento está prestes a começar na cidade. Prepare-se para o caos! 🔥
+Exibindo mensagem: 🚨 *Morro da Maconha em Atividade!* As ruas do Morro estão fervendo. Fique atento aos movimentos. 🔥
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+Exibindo mensagem: 🔔 *Comunicado Oficial!* Lembre-se de verificar suas notificações. O futuro da cidade depende disso! 📡
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+[DEBUG] Abrindo menu para localização: Galpão Abandonado
+> refresh
+
+> ensure thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+[DEBUG] Recurso iniciado: thug
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+Exibindo mensagem: ⚠️ *Atenção, Cidadão!* Mantenha-se conectado para receber prêmios e vantagens exclusivas. Não perca a oportunidade! 💎
+> laundrypanel
+
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:77)
+Uncaught (in promise) TypeError: Failed to fetch (@thug/html/script.js:11)
+Uncaught (in promise) TypeError: Failed to fetch (@thug/html/script.js:11)
+> stop thug
+
+[DEBUG] Recurso parado: thug
+[DEBUG] Limpando animação
+Exibindo mensagem: 🚨 Carro Abandonado! Não achou seu veículo em nenhuma garagem? Dirija‑se ao Depot Lot 📍 para recuperá‑lo. 🛑
+> laundrypanel
+
+> ensure thug
+
+[DEBUG] Recurso iniciado: thug
+Resource detectado: unknown (@thug/html/script.js:530)
+Failed to create society account
+[DEBUG] Criando marcadores
+[DEBUG] Criando máquinas de lavar dinheiro
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Objeto criado com sucesso: bkr_prop_money_counter
+[DEBUG] Total de máquinas criadas: 2
+> laundrypanel
+
+Testando URLs alternativas do Express... (@thug/html/script.js:25)
+Testando URL: http://127.0.0.1:8000/api/health (@thug/html/script.js:30)
+Falha ao conectar com http://127.0.0.1:8000/api/laundry: The user aborted a request. (@thug/html/script.js:45)
+Testando URL: http://cfx-nui-thug:8000/api/health (@thug/html/script.js:30)
+Mixed Content: The page at 'https://cfx-nui-thug/html/index.html' was loaded over HTTPS, but requested an insecure resource 'http://cfx-nui-thug:8000/api/health'. This request has been blocked; the content must be served over HTTPS. (@thug/html/script.js:32)
+Falha ao conectar com http://cfx-nui-thug:8000/api/laundry: Failed to fetch (@thug/html/script.js:45)
+Testando URL: http://localhost:8000/api/health (@thug/html/script.js:30)
+Falha ao conectar com http://localhost:8000/api/laundry: The user aborted a request. (@thug/html/script.js:45)
+Testando URL: http://0.0.0.0:8000/api/health (@thug/html/script.js:30)
+Mixed Content: The page at 'https://cfx-nui-thug/html/index.html' was loaded over HTTPS, but requested an insecure resource 'http://0.0.0.0:8000/api/health'. This request has been blocked; the content must be served over HTTPS. (@thug/html/script.js:32)
+Falha ao conectar com http://0.0.0.0:8000/api/laundry: Failed to fetch (@thug/html/script.js:45)
+Testando URL: http://127.0.0.1:30120/api/health (@thug/html/script.js:30)
+Falha ao conectar com http://127.0.0.1:30120/api/laundry: The user aborted a request. (@thug/html/script.js:45)
+Não foi possível conectar a nenhum dos servidores Express! (@thug/html/script.js:49)
+Inicialização do painel: teste de URLs falhou, usando http://127.0.0.1:8000/api/laundry (@thug/html/script.js:173)
+Tentando buscar dados no servidor: http://127.0.0.1:8000/api/laundry/data [object Object] (@thug/html/script.js:312)
+Exibindo mensagem: 👮‍♂️ *Policiais do BOPE em Patrulha!* O BOPE está monitorando as ruas de Tokyo Edge. Não tente nada ilegal. 🚔
+Erro na chamada API para fetchLaundryData: TypeError: Failed to fetch (@thug/html/script.js:146)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:329)
+Erro 'Failed to fetch' detectado. Testando URLs alternativas... (@thug/html/script.js:337)
+Testando URLs alternativas do Express... (@thug/html/script.js:25)
+Testando URL: http://127.0.0.1:8000/api/health (@thug/html/script.js:30)
+Falha ao conectar com http://127.0.0.1:8000/api/laundry: Failed to fetch (@thug/html/script.js:45)
+Testando URL: http://cfx-nui-thug:8000/api/health (@thug/html/script.js:30)
+Mixed Content: The page at 'https://cfx-nui-thug/html/index.html' was loaded over HTTPS, but requested an insecure resource 'http://cfx-nui-thug:8000/api/health'. This request has been blocked; the content must be served over HTTPS. (@thug/html/script.js:32)
+Falha ao conectar com http://cfx-nui-thug:8000/api/laundry: Failed to fetch (@thug/html/script.js:45)
+Testando URL: http://localhost:8000/api/health (@thug/html/script.js:30)
+Falha ao conectar com http://localhost:8000/api/laundry: Failed to fetch (@thug/html/script.js:45)
+Testando URL: http://0.0.0.0:8000/api/health (@thug/html/script.js:30)
+Mixed Content: The page at 'https://cfx-nui-thug/html/index.html' was loaded over HTTPS, but requested an insecure resource 'http://0.0.0.0:8000/api/health'. This request has been blocked; the content must be served over HTTPS. (@thug/html/script.js:32)
+Falha ao conectar com http://0.0.0.0:8000/api/laundry: Failed to fetch (@thug/html/script.js:45)
+Testando URL: http://127.0.0.1:30120/api/health (@thug/html/script.js:30)
+Falha ao conectar com http://127.0.0.1:30120/api/laundry: The user aborted a request. (@thug/html/script.js:45)
+Não foi possível conectar a nenhum dos servidores Express! (@thug/html/script.js:49)
+Tentativa 1/3: Falha na conexão com todos os servidores Express testados. Verifique se o servidor está rodando na porta 8000. (@thug/html/script.js:354)
+Aguardando 500ms antes da próxima tentativa... (@thug/html/script.js:362)
+Aviso: Erro ao enviar resultado de conexão: [object DOMException] (@thug/html/script.js:85)
+Este erro é esperado no ambiente de desenvolvimento e não impede o funcionamento (@thug/html/script.js:86)
+Tentando buscar dados no servidor: http://127.0.0.1:8000/api/laundry/data [object Object] (@thug/html/script.js:312)
+Erro na chamada API para fetchLaundryData: TypeError: Failed to fetch (@thug/html/script.js:146)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:329)
+Tentativa 2/3: Falha na conexão com o servidor Express em http://127.0.0.1:8000/api/laundry. Verifique se o servidor está rodando na porta 8000. (@thug/html/script.js:354)
+Aguardando 1000ms antes da próxima tentativa... (@thug/html/script.js:362)
+Aviso: Erro ao enviar resultado de conexão: TypeError: Failed to fetch (@thug/html/script.js:85)
+Este erro é esperado no ambiente de desenvolvimento e não impede o funcionamento (@thug/html/script.js:86)
+Tentando buscar dados no servidor: http://127.0.0.1:8000/api/laundry/data [object Object] (@thug/html/script.js:312)
+Erro na chamada API para fetchLaundryData: TypeError: Failed to fetch (@thug/html/script.js:146)
+Erro ao buscar dados: TypeError: Failed to fetch (@thug/html/script.js:329)
+Tentativa 3/3: Falha na conexão com o servidor Express em http://127.0.0.1:8000/api/laundry. Verifique se o servidor está rodando na porta 8000. (@thug/html/script.js:354)
+Aviso: Erro ao enviar resultado de conexão: [object DOMException] (@thug/html/script.js:85)
+Este erro é esperado no ambiente de desenvolvimento e não impede o funcionamento (@thug/html/script.js:86)
